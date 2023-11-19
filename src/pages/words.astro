@@ -1,0 +1,10 @@
+---
+import Layout from "../layouts/WordLayout.astro";
+import KidsCard from "../components/KidsCard.jsx";
+---
+
+<Layout title="Kids Words">
+  <div class="flex justify-center items-center h-screen">
+    <KidsCard client:load />
+  </div>
+</Layout>
