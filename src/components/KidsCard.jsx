@@ -9,7 +9,7 @@ const KidsCard = () => {
   };
 
   const cards = [
-    { image: 'image1.jpg', title: 'Card 1' },
+    { image: '/imgs/lion.jpg', title: 'Lion' },
     { image: 'image2.jpg', title: 'Card 2' },
     { image: 'image3.jpg', title: 'Card 3' },
     // Add more cards as needed
