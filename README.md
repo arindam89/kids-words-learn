@@ -1,4 +1,5 @@
 # Astro Starter Kit: Basics
+It will show flip cards on click for kids to learn spelling.
 
 ```sh
 npm create astro@latest -- --template basics
